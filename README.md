@@ -16,8 +16,10 @@ The purpose of this project is to use the neural network structure from the begi
     
   3) Evaluation of the Trained Model:
     -  After tarining step, thw accuracy and loss should be computed to evaluate the performance of the model
+    
 ### Formulas:
-  $$𝑍=𝑊^𝑇 𝑋+𝑏$$
+
+ - $$𝑍=𝑊^𝑇 𝑋+𝑏$$
   $$𝐴=𝑠𝑖𝑔𝑚𝑜𝑖𝑑(𝑍)$$
   $$𝐸=-\frac{1}{n}\sum_{i=1}^n (𝑦_𝑖 log(𝑎_𝑖)+(1−𝑦_𝑖)log(1−𝑎_𝑖))$$
   $$\frac{𝜕𝐸}{𝜕𝑊}=\frac{1}{n}𝑋 (𝐴−𝑌)^𝑇$$
