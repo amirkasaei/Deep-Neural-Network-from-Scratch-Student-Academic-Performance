@@ -2,7 +2,7 @@
 
 ## Description
 **Project name: Student Academic Performance**
-The purpose of this project is to use the neural network structure from the beginning (Neural Networks from Scratch) for predicting the acceptance or rejection of students according to a set of their characteristics during an academic semester.
+- The purpose of this project is to use the neural network structure from the beginning (Neural Networks from Scratch) for predicting the acceptance or rejection of students according to a set of their characteristics during an academic semester.
 
 ### the project has 3 main parts:
   1) Neural network implementation (from Scratch):
